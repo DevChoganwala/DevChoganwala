@@ -9,7 +9,7 @@
 
 <p align="center">🤔 Interested in Machine Learning, computer graphics.</p>
 
-<p align="center">📘 Currently reading Man's Search for Meaning by Viktor E Frankl.</p>
+<p align="center"><a href="https://www.goodreads.com/review/list/132494829-dev-choganwala?ref=nav_mybooks&shelf=read">📚 Books I've Read!</a></p>
 
 ## Github Stats
 
